@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Large data files (> 100 MB — exceed GitHub limit)
+data/processed/mp_cathode_graphs.pkl
+data/raw/*.parquet
+data/raw/*.h5
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+results_*.log
+
+# OS
+.DS_Store
+.idea/
+*.swp

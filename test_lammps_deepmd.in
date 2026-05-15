@@ -1,0 +1,20 @@
+# Minimal DeepMD test — 10 steps NVT on Li2ZrCl6
+plugin load /projects/lips/apps/deepmd-lammps-gpu/deepmd_install/lib/deepmd_lmp/dpplugin.so
+
+units           metal
+boundary        p p p
+atom_style      atomic
+
+read_data       /projects/nmclps/LMZC/dlmd/400/minimized_structure.dat
+
+pair_style      deepmd /projects/nmclps/LMZC/dlmd/400/mlpot.pb
+pair_coeff      * *
+
+timestep        0.001
+velocity        all create 400.0 87287 dist gaussian
+
+fix             1 all nvt temp 400 400 0.05
+thermo          2
+thermo_style    custom step temp pe ke etotal press
+
+run             10

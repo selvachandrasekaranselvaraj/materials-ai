@@ -1,0 +1,8 @@
+LAMMPS (11 Feb 2026 - Development - patch_11Feb2026-263-g5c6749b73a)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread.
+  using 1 OpenMP thread(s) per MPI task
+# Minimal DeepMD test — 10 steps NVT on Li2ZrCl6
+plugin load /projects/lips/apps/deepmd-lammps-gpu/deepmd_install/lib/deepmd_lmp/dpplugin.so
+ERROR: Unknown command: plugin load /projects/lips/apps/deepmd-lammps-gpu/deepmd_install/lib/deepmd_lmp/dpplugin.so (src/lammps/src/input.cpp:316)
+Last input line: plugin load /projects/lips/apps/deepmd-lammps-gpu/deepmd_install/lib/deepmd_lmp/dpplugin.so 
+                 ^^^^^^

@@ -1,0 +1,57 @@
+[
+  {
+    "rank": 1,
+    "energy_eV": -157.58096313476562,
+    "fmax_eV_A": 0.004663765896111727,
+    "converged": true,
+    "smiles": "O=C1C=CC(=O)N1CCCCCO",
+    "properties": {
+      "MW": 183.2070000000001,
+      "logP": 0.0739999999999999
+    }
+  },
+  {
+    "rank": 2,
+    "energy_eV": -157.46359252929688,
+    "fmax_eV_A": 0.004189576022326946,
+    "converged": true,
+    "smiles": "O=C1C=CC(=O)N1CCCCCO",
+    "properties": {
+      "MW": 183.2070000000001,
+      "logP": 0.0739999999999999
+    }
+  },
+  {
+    "rank": 3,
+    "energy_eV": -157.4625701904297,
+    "fmax_eV_A": 0.004790121223777533,
+    "converged": true,
+    "smiles": "O=C1C=CC(=O)N1CCCCCO",
+    "properties": {
+      "MW": 183.2070000000001,
+      "logP": 0.0739999999999999
+    }
+  },
+  {
+    "rank": 4,
+    "energy_eV": -157.4524688720703,
+    "fmax_eV_A": 0.0037339250557124615,
+    "converged": true,
+    "smiles": "O=C1C=CC(=O)N1CCCCCO",
+    "properties": {
+      "MW": 183.2070000000001,
+      "logP": 0.0739999999999999
+    }
+  },
+  {
+    "rank": 5,
+    "energy_eV": -157.40232849121094,
+    "fmax_eV_A": 0.00468016741797328,
+    "converged": true,
+    "smiles": "O=C1C=CC(=O)N1CCCCCO",
+    "properties": {
+      "MW": 183.2070000000001,
+      "logP": 0.0739999999999999
+    }
+  }
+]

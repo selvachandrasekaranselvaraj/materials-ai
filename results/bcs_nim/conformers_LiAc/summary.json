@@ -1,0 +1,57 @@
+[
+  {
+    "rank": 1,
+    "energy_eV": -45.059017181396484,
+    "fmax_eV_A": 0.002753789070993662,
+    "converged": true,
+    "smiles": "CC(=O)[O-].[Li+]",
+    "properties": {
+      "MW": 65.985,
+      "logP": -4.2398
+    }
+  },
+  {
+    "rank": 2,
+    "energy_eV": -45.059017181396484,
+    "fmax_eV_A": 0.0015097688883543015,
+    "converged": true,
+    "smiles": "CC(=O)[O-].[Li+]",
+    "properties": {
+      "MW": 65.985,
+      "logP": -4.2398
+    }
+  },
+  {
+    "rank": 3,
+    "energy_eV": -44.384498596191406,
+    "fmax_eV_A": 0.002555568004027009,
+    "converged": true,
+    "smiles": "CC(=O)[O-].[Li+]",
+    "properties": {
+      "MW": 65.985,
+      "logP": -4.2398
+    }
+  },
+  {
+    "rank": 4,
+    "energy_eV": -44.37473678588867,
+    "fmax_eV_A": 0.003147850511595607,
+    "converged": true,
+    "smiles": "CC(=O)[O-].[Li+]",
+    "properties": {
+      "MW": 65.985,
+      "logP": -4.2398
+    }
+  },
+  {
+    "rank": 5,
+    "energy_eV": -40.21100616455078,
+    "fmax_eV_A": 0.003440243424847722,
+    "converged": true,
+    "smiles": "CC(=O)[O-].[Li+]",
+    "properties": {
+      "MW": 65.985,
+      "logP": -4.2398
+    }
+  }
+]
