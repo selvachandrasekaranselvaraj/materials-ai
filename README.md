@@ -1,4 +1,4 @@
-# battery-materials-ai
+# materials-ai
 
 **GPU-Accelerated AI for Energy Materials and Drug Delivery**
 
